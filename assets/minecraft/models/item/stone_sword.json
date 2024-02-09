@@ -9,6 +9,18 @@
         "custom_model_data": 2
       },
       "model": "minecraft:item/stone_knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 292
+      },
+      "model": "minecraft:item/copper_knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 293
+      },
+      "model": "minecraft:item/bone_knife"
     }
   ]
 }

@@ -9,6 +9,12 @@
         "custom_model_data": 6
       },
       "model": "minecraft:item/netherite_knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 695
+      },
+      "model": "minecraft:item/blaze_knife"
     }
   ]
 }

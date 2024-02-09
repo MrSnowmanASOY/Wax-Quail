@@ -9,6 +9,12 @@
         "custom_model_data": 3
       },
       "model": "minecraft:item/iron_knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 394
+      },
+      "model": "minecraft:item/amethyst_knife"
     }
   ]
 }
